@@ -1,0 +1,71 @@
+newmtl Cylinder
+Ka 0.180 0.200 0.250
+Kd 0.180 0.200 0.250
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl PinkGlow
+Ka 1.000 0.200 0.750
+Kd 1.000 0.200 0.750
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl GoldGlow
+Ka 1.000 0.720 0.180
+Kd 1.000 0.720 0.180
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl BlueGlow
+Ka 0.150 0.650 1.000
+Kd 0.150 0.650 1.000
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl PurpleGlow
+Ka 0.550 0.120 1.000
+Kd 0.550 0.120 1.000
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl RedGlow
+Ka 1.000 0.120 0.080
+Kd 1.000 0.120 0.080
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl WhiteGlow
+Ka 0.800 0.950 1.000
+Kd 0.800 0.950 1.000
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl GreenGlow
+Ka 0.250 0.900 0.450
+Kd 0.250 0.900 0.450
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
+
+newmtl DarkGlow
+Ka 0.120 0.025 0.220
+Kd 0.120 0.025 0.220
+Ks 0.1 0.1 0.1
+Ns 24
+d 1.0
+illum 2
